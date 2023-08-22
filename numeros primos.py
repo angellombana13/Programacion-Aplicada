@@ -1,4 +1,3 @@
-
 num = int(input("Enter a positive natural number: "))
 
 print("Number: ", num)
