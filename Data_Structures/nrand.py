@@ -1,7 +1,7 @@
 import time
 from random import randint
 
-for x in range(10):
- n = randint(0,10)
+for x in range(1):
+ n = randint(0,1)
  print(n)
  time.sleep(0.5)
