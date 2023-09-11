@@ -1,3 +1,4 @@
+#número random entre 0 y 1 organizado por columnas en archivo csv y txt
 import csv
 import random
 
