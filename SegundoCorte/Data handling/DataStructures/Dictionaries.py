@@ -76,8 +76,7 @@ zipped_drinks = zip(drinks, caffeine)
 drinks_to_caffeine = {key: value for key, value in zipped_drinks}
 print(drinks_to_caffeine)
 
-caff = [64, 40, 0, 120]
-drink = ["Espresso", "Chai", "Decaf", "Drip"]
-zipped_drinks_2 = zip(caff, drink)
+zipped_drinks_2 = zip(caffeine, drinks)
 drinks_to_caffeine_2 = {key: value for key, value in zipped_drinks_2}
 print(drinks_to_caffeine_2)
+print()
