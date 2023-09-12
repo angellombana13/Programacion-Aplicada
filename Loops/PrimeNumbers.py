@@ -9,7 +9,7 @@ for i in range(0,31):
             conta = conta + 1
               
     if conta == 2:
-        print(f'{i} es un primo')
+        print(f'{i} is prime')
         
 fin = time.time()
 print("t = ", (fin - inicio)*1000)
