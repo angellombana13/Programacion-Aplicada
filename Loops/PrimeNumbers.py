@@ -10,6 +10,3 @@ for i in range(0,31):
               
     if conta == 2:
         print(f'{i} is prime')
-        
-fin = time.time()
-print("t = ", (fin - inicio)*1000)
