@@ -64,8 +64,8 @@
 #dictionary, like a list of students and a list of their heights, 
 #in inches:
 
-names = ['Jenny', 'Alexus', 'Sam', 'Grace']
-heights = [61, 70, 67, 64]
+# names = ['Jenny', 'Alexus', 'Sam', 'Grace']
+# heights = [61, 70, 67, 64]
 
 #Python allows you to create a dictionary using 
 # a dict comprehension, with this syntax:
